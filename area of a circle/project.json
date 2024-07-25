@@ -1,6 +1,6 @@
 {
-  "name": "area of a circle",
-  "description": "Blank Process",
+  "name": "program_3",
+  "description": "Area of a circle",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.11.4]",
