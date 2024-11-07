@@ -1,13 +1,14 @@
 {
-  "name": "31",
+  "name": "30",
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
-    "UiPath.Excel.Activities": "[2.24.3]",
+    "UiPath.CodedWorkflows": "[24.10.0]",
+    "UiPath.Excel.Activities": "[2.22.4]",
     "UiPath.Mail.Activities": "[1.23.11]",
-    "UiPath.System.Activities": "[24.11.0-preview]",
-    "UiPath.Testing.Activities": "[24.10.3]",
-    "UiPath.UIAutomation.Activities": "[24.10.6]"
+    "UiPath.System.Activities": "[24.3.1]",
+    "UiPath.Testing.Activities": "[23.10.1]",
+    "UiPath.UIAutomation.Activities": "[23.10.13]"
   },
   "webServices": [],
   "entitiesStores": [],
@@ -47,7 +48,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "12048a62-c2dc-40ed-8c6b-92fd4eceaf63",
+      "uniqueId": "3611f282-9ff3-49d0-8633-71127bb31a7c",
       "input": [],
       "output": []
     }
